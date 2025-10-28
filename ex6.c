@@ -41,7 +41,7 @@ int main(void)
 
     int grade = round(index);
 
-    printf("L: %f, S: %f, Index: %f\n", L, S, index); // Kontrol için
+    printf("L: %f, S: %f, Index: %f\n", L, S, index);
 
     if (grade >= 16)
     {
