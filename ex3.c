@@ -8,8 +8,6 @@ int main() {
 
     scanf("%s", pet_type);
 
-    // Yanıtın "kedi" olup olmadığını kontrol ediyoruz.
-    // strcmp, iki dize (string) eşitse 0 döndürür.
     if (strcmp(pet_type, "cat") == 0) {
         printf("meow\n");
     } 
