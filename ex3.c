@@ -17,6 +17,6 @@ int main() {
     else {
         printf("Type cat or dog\n");
     }
-    return 0; // Başarılı program sonu
+    return 0;
 }
 
